@@ -20,6 +20,13 @@ o	Do you finish a working, testable solution in the given time?
 o	Are you covering the end-to-end flow?
 
 
+---
+<link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
+<!-- ✅ Use official Tailwind CDN -->
+<script src="https://cdn.tailwindcss.com"></script>
+----
+
+
 🧪 Mock Interview: Frontend Engineer (45–60 minutes)
 👩‍💻 Part 1: Intro & Warm-Up (5–10 min)
 Interviewer:
