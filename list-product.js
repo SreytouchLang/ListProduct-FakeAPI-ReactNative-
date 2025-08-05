@@ -143,6 +143,8 @@ const styles = StyleSheet.create({
     fontSize: 12,
     color: '#27ae60',
   },
+
+  // model popup
   modalBackground: {
     flex: 1,
     backgroundColor: 'rgba(0,0,0,0.5)',
